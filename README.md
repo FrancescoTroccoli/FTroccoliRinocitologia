@@ -51,8 +51,7 @@ The purpose of this repository is to contains all development code allowing...
 
 * Setup the environment with *config.ini*, rename *config.ini.example* into *config.ini* and change content to adapt to your environment
 
-## Use
-You can use your custom data or use our [Open Data Dataset](https://github.com/PRFina/Rinocitologia-Dataset). dataset/s could be clone directly in the main repository.
+
 
 
 
